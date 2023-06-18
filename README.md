@@ -8,8 +8,6 @@ Wellness Whiz is an AI-based healthcare chatbot designed to provide personalized
 
 ## Authors
 
-- [@LakshayGMZ](https://github.com/LakshayGMZ)
-- [@martian0x80](https://github.com/martian0x80)
 - [@LAKSHAYWADHWANI](https://www.github.com/LAKSHAYWADHWANI)
 - [@kushal-gupta-sys](https://github.com/kushal-gupta-sys)
 

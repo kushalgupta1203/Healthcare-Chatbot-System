@@ -3,8 +3,8 @@
 
 Wellness Whiz is an AI-based healthcare chatbot designed to provide personalized healthcare assistance and information to users. It leverages the power of artificial intelligence to understand user queries, provide relevant and accurate responses, and offer valuable insights into various healthcare topics.
 
-![Logo](https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticFour/blob/master/frontend/public/head.png)
-![Logo](https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticFour/blob/master/frontend/public/LOGO_HEAD.png)
+![Logo](https://github.com/kushal-gupta-sys/Healthcare_Chatbot_System/blob/main/frontend/public/head.png)
+![Logo](https://github.com/kushal-gupta-sys/Healthcare_Chatbot_System/blob/main/frontend/public/logoWithHead.png)
 
 ## Authors
 
@@ -77,5 +77,5 @@ Wellness Whiz: "Stress management is important for maintaining good overall heal
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticFour/blob/master/frontend/public/ss_1.png)
-![App Screenshot](https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticFour/blob/master/frontend/public/ss_2.png)
+![App Screenshot](https://github.com/kushal-gupta-sys/Healthcare_Chatbot_System/blob/main/frontend/public/ss_1.png)
+![App Screenshot](https://github.com/kushal-gupta-sys/Healthcare_Chatbot_System/blob/main/frontend/public/ss_2.png)

@@ -31,7 +31,7 @@ To use Wellness Whiz, follow these steps:
 
 - Clone the Wellness Whiz repository from GitHub.
 ```bash
-git clone https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticFour.git
+git clone (https://github.com/kushal-gupta-sys/Healthcare_Chatbot_System/)
 ```
 - Install the required dependencies for the frontend and backend specified in the documentation. You must have `node.js` installed.
 

@@ -8,7 +8,7 @@ Wellness Whiz is an AI-based healthcare chatbot designed to provide personalized
 
 ## Authors
 
-- @siddarthsharma - profile bhej apni
+- [@siddarthsharma](https://github.com/Sharma31siddharth)
 - [@realakshatkumar](https://www.github.com/realakshatkumar)
 - [@LAKSHAYWADHWANI](https://www.github.com/LAKSHAYWADHWANI)
 - [@kushal-gupta-sys](https://github.com/kushal-gupta-sys)
@@ -37,13 +37,13 @@ git clone https://github.com/Google-Developer-Student-Club-ADGITM/TheHacktasticF
 
 For Linux:
 ```bash
-cd TheHacktasticFour/frontend/ && npm install
+cd Healthcare_Chatbot_System/frontend/ && npm install
 cd ../backend/ && pip install -r requirements.txt
 ```
 
 For Windows:
 ```powershell
-cd .\TheHacktasticFour\frontend\; npm install
+cd .\Healthcare_Chatbot_System\frontend\; npm install
 cd ..\backend\; pip install -r requirements.txt
 ```
 - Specify your HuggingFace credentials in `chatbot.py`. You can remove them after the initialization.
@@ -53,13 +53,13 @@ To run locally:
 
 For Linux:
 ```bash
-cd TheHacktasticFour/backend/ && python main.py
-cd TheHacktasticFour/frontend/ && npm run dev
+cd Healthcare_Chatbot_System/backend/ && python main.py
+cd Healthcare_Chatbot_System/frontend/ && npm run dev
 ```
 For Windows:
 ```ps1
-cd .\TheHacktasticFour\backend\; python main.py
-cd .\TheHacktasticFour\frontend\; npm run dev
+cd .\Healthcare_Chatbot_System\backend\; python main.py
+cd .\Healthcare_Chatbot_System\frontend\; npm run dev
 ```
 - Access the application through a web browser or integrate it into your existing system using the provided API endpoints. Go to http://localhost:5173/.
 - Customize the chatbot's responses, behaviors, and integration points as per your requirements.
